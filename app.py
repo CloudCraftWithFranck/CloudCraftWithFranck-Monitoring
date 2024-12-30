@@ -4,6 +4,11 @@ import os
 
 app = Flask(__name__)
 
+@app.route('/')
+def home():
+    return "Welcome to the CloudCraft Monitoring API! Use /github-stats and /youtube-stats for data."
+
+
 # GitHub API Configuration
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 REPO_NAME = "owner/repo"  # Replace with your repository (e.g., "username/repository")
