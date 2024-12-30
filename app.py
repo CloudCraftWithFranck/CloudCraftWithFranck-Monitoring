@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "Welcome to the CloudCraft Monitoring API! Use /github-stats and /youtube-stats for data."
+    return "Welcome to the CloudCraft With Franck's Monitoring API! Use /github-stats and /youtube-stats for data."
 
 
 # GitHub API Configuration
