@@ -63,7 +63,7 @@ This project is deployed on [Render](https://render.com) and can be accessed via
 The project is ingrated in [Grafana](https://cloudcraftwithfranck.grafana.net/d/be8j7o2lkkum8f/cloudcraftwithfranck-statistics-dashboard?orgId=1&from=now-6h&to=now&timezone=browser) and shows statistics as under: 
 ![image](https://github.com/user-attachments/assets/1586cd98-fa77-4c2f-825b-9a0a284b2764)
 
-
+https://cloudcraftwithfranck.grafana.net/public-dashboards/9bda5e484d7849c68c24da4c3f3f4255
 ## License
 
 This project is licensed under the MIT License.
