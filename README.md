@@ -60,6 +60,9 @@ This project is deployed on [Render](https://render.com) and can be accessed via
 - Create a frontend to visualize the data.
 
 ---
+The project is ingrated in [Grafana](https://cloudcraftwithfranck.grafana.net/d/be8j7o2lkkum8f/cloudcraftwithfranck-statistics-dashboard?orgId=1&from=now-6h&to=now&timezone=browser) and shows statistics as under: 
+![image](https://github.com/user-attachments/assets/1586cd98-fa77-4c2f-825b-9a0a284b2764)
+
 
 ## License
 
